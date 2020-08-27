@@ -1,3 +1,3 @@
 # myblog
 
-Welcome to m repo!
+Welcome to my repo!
